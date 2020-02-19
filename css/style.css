@@ -47,6 +47,10 @@ p {
     margin-top: 15%;
   }
 
+h4{
+  color: #e53935;
+    font-family: 'Permanent Marker', cursive;
+  }
   .header-subtitle {
     margin-top: 10%;
     font-size: 1,3em;
@@ -55,6 +59,7 @@ p {
   .registrazione-subtitle{
     font-size: 1.3em;
     margin-top: 5%;
+    color: #0277bd;
   }
 
   .btn-registrazione{
@@ -64,6 +69,7 @@ p {
   .registrazione-icon{
     font-size: 7em;
     margin-top: 60px;
+    color:#607d8b;
   }
 
 @media only screen and (max-width : 992px) {
